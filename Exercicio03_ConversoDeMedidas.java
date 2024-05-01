@@ -12,5 +12,7 @@ public class Exercicio03_ConversoDeMedidas {
         conversor = medida * 100;
 
         System.out.println("A conversão de "+ medida + " Metros e de "+ conversor);
+
+        sc.close();
     }
 }
