@@ -19,5 +19,7 @@ public class Exercicio02_MediaNotas {
         System.out.println("Sua primeira nota foi: " + nota1);
         System.out.println("Sua segunda nota foi: " + nota2);
         System.out.println("Sua media foi de: "+ media);
+
+        sc.close();
     }
 }
